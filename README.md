@@ -1,2 +1,2 @@
-# fanlus-site
+# fanlust-site
 
